@@ -1,0 +1,16 @@
+name: time
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8.13
+  - pandas=1.4.3
+  - notebook=6.4.12
+  - sktime=0.12.1
+  - pmdarima=1.8.5
+  - prophet=1.1
+  - pip=22.2.1
+
+prefix: /opt/anaconda3/envs/time
