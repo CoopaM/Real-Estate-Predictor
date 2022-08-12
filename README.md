@@ -47,12 +47,12 @@ If I had more time to work on this project I would:
 ├── Data                                     
 |   ├── Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv  
 |   └── zillow_data.csv
-├── 
-|   └── confusion.png
-├── Notebooks  
-|   └── Draft Notebook.ipynb
+├── graphs
+|   └── Model.png
 ├── .gitignore 
-├── FinalNotebook.ipynb 
 ├── README.md 
-└── The Stars.pdf
+├── Real-Estate Predictor Presentation.pdf 
+├── starter_notebook.ipynb
+├── time.yml 
+└── FinalNotebook.ipynb 
 ```
