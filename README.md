@@ -29,7 +29,7 @@ I got my data from [Zillow](https://www.zillow.com/research/data/). It uses medi
 
 ## Results
 Most zipcodes indicate a positive trend in the current market. My model forcasts one year in advance and accounts for around 87% variance. The zipcode I decided to use for an example is 35173 or Trussville, Alabama and it estimates over a $48000 ROI(return of investment).
-[](https://github.com/CoopaM/Real-Estate-Predictor/blob/main/graphs/Model.png)
+![](./graphs/Model.png)
 This graph represents an example of my final model, but the function I wrote allows you to input any zipcode to output a forecasting graph. 
 
 ## Conclusion
