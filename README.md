@@ -50,9 +50,9 @@ If I had more time to work on this project I would:
 ├── graphs
 |   └── Model.png
 ├── .gitignore 
+├── FinalNotebook.ipynb 
 ├── README.md 
 ├── Real-Estate Predictor Presentation.pdf 
 ├── starter_notebook.ipynb
-├── time.yml 
-└── FinalNotebook.ipynb 
+└── time.yml 
 ```
