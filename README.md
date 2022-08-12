@@ -28,9 +28,8 @@ I got my data from [Zillow](https://www.zillow.com/research/data/). It uses medi
 
 
 ## Results
-Most zipcodes indicate a positive trend in the current market. My model forcasts one year in advance and accounts for around 87% variance. The zipcode I decided to use for an example is 35173 or Trussville, Alabama and it estimates over a $48000 ROI(return of investment).
-[](https://github.com/CoopaM/Real-Estate-Predictor/blob/main/graphs/Model.png)
-This graph represents an example of my final model, but the function I wrote allows you to input any zipcode to output a forecasting graph. 
+Most zipcodes indicate a positive trend in the current market. My model forcasts one year in advance and accounts for around 87% variance. The zipcode I decided to use for an example is 35173 or Trussville, Alabama and it estimates over a $48000 ROI(return of investment). This graph represents an example of my final model, but the function I wrote allows you to input any zipcode to output a forecasting graph. 
+![](./graphs/Model.png)
 
 ## Conclusion
 In conclusion, the housing market right now is really good and keeps increasing in prices. This means now is the time to rent homes as you want to set the rate of homes when the value of the house is high in order to have a high rate of rent. This also means that you should not buy right now, but rather sell as I am estimating that in a year or two the housing market will top off and start going back down.
@@ -48,12 +47,12 @@ If I had more time to work on this project I would:
 ├── Data                                     
 |   ├── Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv  
 |   └── zillow_data.csv
-├── 
-|   └── confusion.png
-├── Notebooks  
-|   └── Draft Notebook.ipynb
+├── graphs
+|   └── Model.png
 ├── .gitignore 
-├── FinalNotebook.ipynb 
 ├── README.md 
-└── The Stars.pdf
+├── Real-Estate Predictor Presentation.pdf 
+├── starter_notebook.ipynb
+├── time.yml 
+└── FinalNotebook.ipynb 
 ```
