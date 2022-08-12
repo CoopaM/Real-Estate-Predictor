@@ -26,9 +26,11 @@ What I want to achieve in this project is to give an accurate estimation of the 
 ## Data
 I got my data from [Zillow](https://www.zillow.com/research/data/). It uses median housing prices from the years 2000 to 2022. The reason why the median value of homes is used instead of mean to resist outliers from effecting the data. The dataset I used consists of over 27000 rows of data points and takes information from the first of the month.
 
+
 ## Results
 Most zipcodes indicate a positive trend in the current market. My model forcasts one year in advance and accounts for around 87% variance. The zipcode I decided to use for an example is 35173 or Trussville, Alabama and it estimates over a $48000 ROI(return of investment).
-
+[](https://github.com/CoopaM/Real-Estate-Predictor/blob/main/graphs/Model.png)
+This graph represents an example of my final model, but the function I wrote allows you to input any zipcode to output a forecasting graph. 
 
 ## Conclusion
 In conclusion, the housing market right now is really good and keeps increasing in prices. This means now is the time to rent homes as you want to set the rate of homes when the value of the house is high in order to have a high rate of rent. This also means that you should not buy right now, but rather sell as I am estimating that in a year or two the housing market will top off and start going back down.
